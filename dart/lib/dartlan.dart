@@ -31,12 +31,23 @@ void main() {
     'name': 'Abdi farah ali',
     'phone': '61xxxxx'
   };
-  print(personalinfo['phone' ]);*/
+  print(personalinfo['phone' ]);
   //Implicity Declared Variables Hadii Adan aqoon Noca data type nooca ay tahy ayaa ladhahaa |
   //var and dynamic Farqiga Udhaxeyo waa Var hadii ad string u istic masho another data tyape kalle uma istic mali kartid
   //dynamic waxa uu kaka duwan yahy waa markasta data type waa isbadali kartaa string adoo u istic malle Hadane int waad u istic mali kartaa
   // var greeting = 'abdillahi';
   // print(greeting.runtimeType);
   dynamic greatingthree = 'Hello word';
-  print(greatingthree);
+  print(greatingthree);*/
+  //Null markii lajogo mobile prog null cilad weyn ayey saba beysaa in uu appli uu grash garowo
+  //null markii kuku dhago waxaa la dhahaa Null Exception or null pointer
+  // Null loogu kediyo variable
+  //example
+  // String? greeting; ? // u oglow in uu qato null
+  // print(greeting);
+  //Qaab kan waa sida viariable null logu dhigo asaga oo kasoo aqrisanayo Database
+  late String name;
+  name = 'abdi';
+  print(name);
+  
 }
