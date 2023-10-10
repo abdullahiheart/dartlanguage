@@ -46,8 +46,14 @@ void main() {
   // String? greeting; ? // u oglow in uu qato null
   // print(greeting);
   //Qaab kan waa sida viariable null logu dhigo asaga oo kasoo aqrisanayo Database
-  late String name;
-  name = 'abdi';
-  print(name);
+  // late String name;
+  // name = 'abdi';
+  // print(name);
+  //Waa maxay farqiga udhaxeyo  Const vs final
+  // const String h = 'Somali'; // Cons markaa abuu reysid waxa uu kuku Qasbaa inaad Qiimo kushub tid Automatic inaa qiimo ugu shub tid  np= at the same time of declarat
+  // h = 'k';
+  //final String k = 'yusuf'; // waxaa laguu ogol yahy one time initilization late laguu ogol yahy np= later initializatio 
+  // cons vs final = markasta lawa dooda waad ubahan tahy final siiba markaa your own widget dhisa nesid isticmalle
+  //const = markaa IP markaa ku keyd sanesid lo isticmalla
   
 }
