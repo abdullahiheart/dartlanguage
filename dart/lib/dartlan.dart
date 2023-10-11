@@ -68,6 +68,12 @@ void main() {
   //String actualval = name ?? 'Omar'; if name null yahy waxaad istic mali dontaa 'Omar' ?? waxa uu samenaya haduu nall yahy
   // ?? = if its equal null
   // is =
-  bool isdar = false;
-  print(isdar is String);
+  // bool isdar = false;
+  // print(isdar is String);
+
+  //Ternary Operator waaa | condition ? statement1 : statement 2
+  // waa short way oo if iyo else cml midkaan ayaa in badal la istic malla
+  int age = 19;
+  bool isEligible = age > 18 ? true : false;
+  print(isEligible);
 }
