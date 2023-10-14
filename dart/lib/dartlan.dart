@@ -73,7 +73,19 @@ void main() {
 
   //Ternary Operator waaa | condition ? statement1 : statement 2
   // waa short way oo if iyo else cml midkaan ayaa in badal la istic malla
-  int age = 19;
-  bool isEligible = age > 18 ? true : false;
-  print(isEligible);
+  // int age = 19;
+  // bool isEligible = age > 18 ? true : false;
+  // print(isEligible);
+  // int age = 27;
+  // if (age > 70) {
+  //   print('You are Mature');
+  // } else if (age < 15) {
+  //   print('You are not Mature');
+  // } else {
+  //   print('He doesn\'t acess');
+  // }
+  // int age = 33;
+  // // print('Your\'t age is ' + age.toString() + ' Years old');
+  // // String Interpolation
+  // print('Dadaada waa ${age *2} years old');
 }
